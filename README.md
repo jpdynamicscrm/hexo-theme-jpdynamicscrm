@@ -22,7 +22,7 @@ root_tag_generator:
     - CanvasApp
     - Customization
     - ModelDrivenApp
-    - OnlineSystem
+    - On-premises
     - Other
     - Archive
     - PortalApp
