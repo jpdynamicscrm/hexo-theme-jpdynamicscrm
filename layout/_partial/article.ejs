@@ -2,8 +2,7 @@
   <div class="article-inner">
     <%- partial('post/gallery') %>
     <% if(config.github.url){
-        //var github = githubData(config, post);
-        var github = ""
+        var github = githubData(config, post);
     } %>
     <% if (post.link || post.title){ %>
       <header class="article-header-single">
